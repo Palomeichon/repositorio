@@ -1,0 +1,500 @@
+   53  mkdir -p folder1/folderA/{folderI,folderII}/bucles.c/folderX
+   54  mkdir -p folder1/folderA/{folderI,folderII}/folderX
+   55  mkdir -p folder1/folderA/{folderI,folderII}/folderX
+   56  touch folder1/folderA/folderII/bucles.c
+   57  mkdir -p folder1/folderA/{folderI,folderII/folderX}
+   58  touch folder1/folderA/folderII/bucles.c
+   59  touch folder1/folderA/{folderI,folderII/bucles.c}
+   60  mkdir -p folder1/folderA/{folderI,foldeII/folderX}
+   61  mkdir -p folder1/folderA/{folderI,folderII/folderX}
+   62  touch folder1/folderA/folderII/bucles.c/folderX
+   63  touch folder1/folderA/{folderI,folderII/bucles.c/folderX}
+   64  touch folder1/folderA/folderII/bucles.c
+   65  pwd
+   66  cd folderX
+   67  cd folder1/folderA/folderII/folderX
+   68  pwd
+   69  make folder1/folderA/folderII/bucles.c
+   70  make folder1/folderA/folderII/bucles
+   71  ./folder1/folderA/folderII/bucles
+   72  pwd
+   73  cd folder1/folderA/folderII/folderX
+   74  pqd
+   75  pwd
+   76  make -C folder1/folderA/folderII/bucles
+   77  make -C folder1/folderA/folderII
+   78  make folder1/folderA/folderII/bucles
+   79  nano folder1/folderA/folderII
+   80  make ../bucles
+   81  make../bucles
+   82  make ../bucles
+   83  make ../bucle
+   84  make ../bucle
+   85  pwd
+   86  make ../bucles
+   87  clear
+   88  make -C ../folderII/bucles
+   89  make -C ../folderII
+   90  pwd
+   91  pwd
+   92  make ../
+   93  make ../folderII
+   94  make ../bucles
+   95  ../blucles
+   96  ../bucles
+   97  make ./folder1/folderA/folderII/bucles
+   98  pwd
+   99  make /workspaces/179880219/folder1/folderA/folderII/bucles
+  100  /workspaces/179880219/folder1/folderA/folderII/bucles
+  101  cd workspaces/179880219
+  102  cd pwd
+  103  pwd
+  104  clear
+  105  history
+  106  clear
+  107  pwd
+  108  cd folderX/folderII/folderA/folder1/179880219/workspaces/
+  109  cd inicio
+  110  cd play
+  111  cd .....
+  112  cd ..
+  113  cd ¨
+  114  cd home
+  115  cd *
+  116  cd-
+  117  cd -
+  118  cd -------
+  119  pwd
+  120  cd -
+  121  cd ~
+  122  pwd
+  123  pwd
+  124  cd worskpace
+  125  cd TrabajosDeRetroalimentacion
+  126  cd ~/workspace
+  127  pwd
+  128  cd 179880219
+  129  pwd
+  130  pwd
+  131  history
+  132  ls
+  133  pwd
+  134  mkdir -p folder1/folderA/{folderI,folderII}/folderX
+  135  touch folder1/folderA/folderII/bucles.c
+  136  cd folder1/folderA/folderII/folderX
+  137  make ../bucles
+  138  make ../bucles
+  139  ../bucles
+  140  pwd
+  141  make ../bucles
+  142  ../bucles
+  143  pwd
+  144  code ciclos.c
+  145  make ciclos
+  146  make ciclos
+  147  make ciclos
+  148  make ciclos
+  149  make ciclos
+  150  ./ciclos
+  151  clear
+  152  make ciclos
+  153  ./ciclos
+  154  make ciclos
+  155  ./ciclos
+  156  clear
+  157  make ciclos
+  158  ./ciclos
+  159  2
+  160  clear
+  161  make ciclos
+  162  ./ciclos
+  163  clear
+  164  make ciclos
+  165  ./ciclos
+  166  clear
+  167  make ciclos
+  168  ./ciclos
+  169  ./ciclos
+  170  ./ciclos
+  171  pwd
+  172  code meow.c
+  173  hostory
+  174  history
+  175  make meow
+  176  clear
+  177  make meow
+  178  make meow
+  179  make meow
+  180  ./meow
+  181  clear
+  182  make meow
+  183  ./meow
+  184  make meow
+  185  ./meow
+  186  make meow
+  187  -9
+  188  ./meow
+  189  clear
+  190  make meow
+  191  ./meow
+  192  clear
+  193  make meow
+  194  ./meow
+  195  ./meow
+  196  ./meow
+  197  make meow
+  198  clear
+  199  make meow
+  200  ./meow
+  201  ./meow
+  202  mkdir playground; cd playground
+  203  code modules.c
+  204  make modules
+  205  ./modules
+  206  make modules
+  207  ./modules
+  208  make modules
+  209  ./modules
+  210  make modules
+  211  clear 
+  212  make modules
+  213  ./ modules
+  214  ./modulesa
+  215  ./modules
+  216  clear
+  217  make modules
+  218  ./modules
+  219  clear
+  220  make modules
+  221  ./modules
+  222  ./modules
+  223  clear
+  224  clear
+  225  make modules
+  226  make modules
+  227  ./modules
+  228  clear
+  229  make modules
+  230  make modules
+  231  make modules
+  232  clear
+  233  make modules
+  234  clear
+  235  make modules
+  236  make modules
+  237  clear
+  238  make modules
+  239  clear
+  240  make modules
+  241  make modules
+  242  clear
+  243  make modules
+  244  ./modules
+  245  clear
+  246  make modules
+  247  code mario.c
+  248  clear
+  249  make modules
+  250  ./modules
+  251  clear
+  252  make mario
+  253  ./mario
+  254  make mario
+  255  ./mario
+  256  make mario
+  257  */mario
+  258  ./mario
+  259  clear
+  260  make mario
+  261  ./mario
+  262  clear
+  263  make mario
+  264  ./mario
+  265  ./mario 5
+  266  clear
+  267  make mario
+  268  ./mario
+  269  make mario
+  270  make mario
+  271  ./mario
+  272  make mario
+  273  ./mario
+  274  make mario
+  275  clear
+  276  clear
+  277  make mario
+  278  ./mario
+  279  make mario
+  280  clear
+  281  make mario
+  282  clear
+  283  make mario
+  284  ./mario
+  285  make mario
+  286  ./mario
+  287  clear
+  288  make mario
+  289  ./mario
+  290  ./mario
+  291  clear
+  292  make mario
+  293  ./mario
+  294  ./mario
+  295  make mario
+  296  clear
+  297  make modules
+  298  cd playground
+  299  make modules
+  300  make modules
+  301  clear
+  302  make modules
+  303  clear
+  304  make modules
+  305  ./modules
+  306  make modules
+  307  ./modules
+  308  clear
+  309  make modules
+  310  ./modules
+  311  clear
+  312  make modules
+  313  clear
+  314  make modules
+  315  ./modules
+  316  ./modules
+  317  clear
+  318  make modules
+  319  ./modules
+  320  python
+  321  clear
+  322  make modules
+  323  ./modules
+  324  clear
+  325  make modules
+  326  ./modules
+  327  clear
+  328  make mario
+  329  clear
+  330  make mario
+  331  ./mario
+  332  clear
+  333  clear
+  334  make mario
+  335  ./mario
+  336  clear
+  337  make mario
+  338  ./mario
+  339  make mario
+  340  ./mario
+  341  clear
+  342  make mario
+  343  clear
+  344  make mario
+  345  clear
+  346  make mario
+  347  ./mario
+  348  clear
+  349  make mario
+  350  ./mario
+  351  make mario
+  352  ./mario
+  353  clear
+  354  make mario
+  355  clear
+  356  make mario
+  357  clear
+  358  make mario
+  359  ./mario
+  360  clear
+  361  make mario
+  362  ./mario
+  363  clear
+  364  make mario
+  365  ./mario
+  366  clear
+  367  ./mario
+  368  clear
+  369  make mario
+  370  clear
+  371  make mario
+  372  clear
+  373  make mario
+  374  ./mario
+  375  make mario
+  376  ./mario
+  377  clear}
+  378  clear
+  379  make mario
+  380  ./mario
+  381  clear
+  382  make mario
+  383  ./mario
+  384  clear
+  385  make mario
+  386  ./mario
+  387  clear
+  388  make mario
+  389  ./mario
+  390  mkdir
+  391  pwd
+  392  mkdir mario
+  393  cd mario
+  394  cuadrito
+  395  cuadrito.c
+  396  code cuadro.c
+  397  make cuadro
+  398  make mario
+  399  make cuadro
+  400  make cuadro
+  401  clear
+  402  make cuadro
+  403  make cuadro
+  404  ./cuadro
+  405  make cuadro
+  406  make cuadro
+  407  ./cuadro
+  408  #
+  409  clear
+  410  make cuadro
+  411  make cuadro
+  412  clear
+  413  make cuadro
+  414  make cuadro
+  415  ./cuadro
+  416  make mario
+  417  make cuadro
+  418  ./cuadro
+  419  make cuadro
+  420  ./cuadro
+  421  clear
+  422  make cuadro
+  423  ./cuadro
+  424  clear
+  425  make cuadros
+  426  make cuadro
+  427  ./cuadro
+  428  make cuadro
+  429  clear
+  430  make cuadro
+  431  ./cuadro
+  432  ./cuadro
+  433  clear
+  434  make cuadro
+  435  ./cuadro
+  436  make cuadro
+  437  ./cuadro
+  438  clear
+  439  make mario
+  440  make clear
+  441  clear
+  442  make cuadro
+  443  clear
+  444  make cuadro
+  445  make cuadro
+  446  ./cuadro
+  447  clear
+  448  make cuadro
+  449  ./cuadro
+  450  clear
+  451  make cuadro
+  452  ./cuadro
+  453  code escalera.c
+  454  clear
+  455  make escalera
+  456  clear
+  457  make escaleras
+  458  male escalera
+  459  make escalera
+  460  ./escalera
+  461  clear
+  462  make mario
+  463  make escalera
+  464  ./escalera
+  465  make escaleras
+  466  make escalera
+  467  wpd
+  468  wpd
+  469  clear
+  470  cd mario
+  471  make escalera
+  472  ./escalera
+  473  ./escalera
+  474  make escaleras
+  475  made escaleras
+  476  make escalera
+  477  ./escalera
+  478  clear
+  479  make escalera
+  480  ./escalera
+  481  ./escalera
+  482  make proescal
+  483  code proescal.c
+  484  make proescal
+  485  ./proescal
+  486  wpd
+  487  pwd
+  488  clear
+  489  pwd
+  490  mkdir problema2
+  491  touch numeros.c
+  492  pwd
+  493  cd problema2
+  494  cd numeros
+  495  cd numeros.c
+  496  clear
+  497  ..
+  498  history
+  499  clear
+  500  pwd
+  501  mkdir examen
+  502  cd examen
+  503  touch numeros.c
+  504  make numeros
+  505  clear
+  506  make numeros
+  507  clear
+  508  make numeros
+  509  clear
+  510  make numeros
+  511  make numeros
+  512  make numeros
+  513  clear
+  514  make numeros
+  515  make numeros
+  516  ./numeros
+  517  clear
+  518  make numeros
+  519  ./numeros
+  520  clear
+  521  make numeros
+  522  ./numeros
+  523  make numeros
+  524  ./numeros
+  525  clear
+  526  make numeros
+  527  make numeros
+  528  ./numeros
+  529  clear
+  530  numeros
+  531  clear
+  532  numeros
+  533  ./numeros
+  534  clear
+  535  make numeros
+  536  clear
+  537  make numeros
+  538  clear
+  539  make numeros
+  540  ./numeros
+  541  ./numeros
+  542  clear
+  543  make numeros
+  544  clear
+  545  make numeros
+  546  ./numeros
+  547  clear
+  548  clear
+  549  make numeros
+  550  ./numeros
+  551  histoy>comandosGITHUB.txt
+  552  history>comandosGITHUB.txt

@@ -1,0 +1,118 @@
+    1  wpd
+    2  mkdir repositorio
+    3  wpd
+    4  clear
+    5  pwd
+    6  ls
+    7  mkdir repositorio
+    8  cd Desḱtop
+    9  cd Desktop
+   10  mkdir repositorio
+   11  code .
+   12  ls
+   13  code .
+   14  code ..
+   15  cd repositorio
+   16  code .
+   17  ls
+   18  touch A.txt
+   19  ls
+   20  git init
+   21  ls -a
+   22  echo "Hola Repositorio " > A.txt
+   23  cat A.txt
+   24  git add A.txt
+   25  git status
+   26  git comit  -m "First comid"
+   27  git config --global user.email "elvia.palafox@uabc.edu.mx"
+   28  git config --global user.name "Palominchi"
+   29   git branch M-main
+   30  pwd
+   31  cd Desktop
+   32  cd repositorio
+   33  git log
+   34  git status
+   35  git status
+   36  git status
+   37  git add A.txt
+   38  git status
+   39  where bash
+   40  git status
+   41  got status
+   42  cd Desktop
+   43  cd repositorio
+   44  git --global user.email "elviapalafox@uabc.edu.mx"
+   45  clear
+   46  git config --global user.email "elvia.palafox@uabc.edu.mx"
+   47  git config --global user.name "El profe rifa"
+   48  git commit -m "First commit"
+   49  git status
+   50  git log
+   51  git status
+   52  git add A.txt
+   53  git status
+   54  echo "Hola mundo"
+   55  cd A.txt
+   56  cd A
+   57  clear
+   58  git log
+   59  git status
+   60  git -M main
+   61  git branch -M main
+   62  https
+   63  git remote add origin https://github.com/Palomeichon/repositorio.git
+   64  push -u origin main
+   65  git push -u origin main
+   66  code hola.c
+   67  git status
+   68  git status
+   69  git add hola 
+   70  git status
+   71  gid add hola.c
+   72  git add hola.c
+   73  git status
+   74  git push -u origin main
+   75  git commit -m "Segund commit"
+   76  clear
+   77  git status
+   78  git push -u origin main 
+   79  wpd
+   80  pwd
+   81  gcc hola.c -o main
+   82  ./hola
+   83  brew install gcc
+   84  gcc hola.c -o hola
+   85  ./hola
+   86  cd Desktop
+   87  cd repositorio
+   88  touch numeros.c
+   89  git status
+   90  git add numeros.c
+   91  git status
+   92  git commit -m "Four commit"
+   93  git log
+   94  git push -u origin main
+   95  touch comandosGITHUB.txt
+   96  touch history>comandosGIT.txt
+   97  git rm A.txt -R
+   98  git rm A.txt 
+   99  git rm hola.c
+  100  git rm history
+  101  git status
+  102  git comandosGITHUB.txt
+  103  git status
+  104  git add comandosGIT.txt
+  105  git status
+  106  git commit -m "Four commit"
+  107  git push -u origin main
+  108  git history>comandosGITHUB.txt
+  109  git status
+  110  git add comandosGITHUB.txt
+  111  git commit -m "Four commit"
+  112  git push -u origin main
+  113  git status
+  114  git add comandosGIT.txt
+  115  touch history>comandosGITHUB.txt
+  116  git add comandosGITHUB.txt
+  117  git status
+  118  history>comandosGITHUB.txt
